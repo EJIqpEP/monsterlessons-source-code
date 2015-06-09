@@ -1,1 +1,1 @@
-### Исходный код уроков Monsterlessons.com
+### Исходный код уроков [Monsterlesson.com](http://monsterlessons.com)
